@@ -6,6 +6,8 @@
 
 # [Download the extension!](https://chrome.google.com/webstore/detail/instagram-yourself/njonkbhnmmjgancfbncekpgkmidhbbpo)
 
+## [Video demo](https://www.youtube.com/watch?v=CPFkPjB0lzQ)
+
 ----
 
 ## Automate your Instagram with your browser!
