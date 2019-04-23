@@ -9,6 +9,8 @@ Gram Up - We Automate boring Instagram stuff for you like mass liking, commentin
 
 ## [Video demo](https://www.youtube.com/watch?v=CPFkPjB0lzQ)
 
+<a href="https://www.producthunt.com/posts/gram-up?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-gram-up" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=152224&theme=light" alt="Gram Up! - Automate boring Instagram stuff with your browser for free. | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px" /></a>
+
 ----
 
 ## Automate your Instagram with your browser!
